@@ -34,11 +34,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devluiscode&" alt="devluiscode" /></p>
 
+<h3 align="left">Projects</h3>
 <table>
   <tr>
-    <th>Flutter</th>
-    <th>Kotlin</th>
-    <th>Firebase</th>
+    <th>Tiktok Clone</th>
+    <th>Rick And Morty</th>
+    <th>Weather APP</th>
   </tr>
   <tr>
     <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/tiktokclone.webp" width="400"><br><a href="https://github.com/DevLuiscode/tiktokclone.git">Tiktok Clone</a></td>
