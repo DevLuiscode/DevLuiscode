@@ -33,3 +33,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devluiscode&show_icons=true&locale=en" alt="devluiscode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devluiscode&" alt="devluiscode" /></p>
+
+<table>
+  <tr>
+    <th>Flutter</th>
+    <th>Kotlin</th>
+    <th>Firebase</th>
+  </tr>
+  <tr>
+    <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/tiktokclone.webp" width="400"><br><a href="https://github.com/DevLuiscode/tiktokclone.git">Tiktok Clone</a></td>
+    <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/rickandomorty.webp" width="400"><br><a href="https://github.com/DevLuiscode/richandmorty_app.git">Rick And Morty</a></td>
+    <td><img src="https://zphhqkbfmmilwzqcmdgu.supabase.co/storage/v1/object/public/profile/weatherapp.webp" width="400"><br><a href="https://github.com/DevLuiscode/weather_app.git">Weather APP</a></td>
+  </tr>
+</table>
+
